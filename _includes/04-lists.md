@@ -1,0 +1,4 @@
+- [ ] Milch
+- [ ] Brot
+- [ ] Wurst 
+- [X] Käse
